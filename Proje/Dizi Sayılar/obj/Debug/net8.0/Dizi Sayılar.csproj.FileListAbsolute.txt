@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Proje\Dizi Sayılar\bin\Debug\net8.0\Dizi Sayılar.exe
+C:\Users\User\Desktop\Proje\Dizi Sayılar\bin\Debug\net8.0\Dizi Sayılar.deps.json
+C:\Users\User\Desktop\Proje\Dizi Sayılar\bin\Debug\net8.0\Dizi Sayılar.runtimeconfig.json
+C:\Users\User\Desktop\Proje\Dizi Sayılar\bin\Debug\net8.0\Dizi Sayılar.dll
+C:\Users\User\Desktop\Proje\Dizi Sayılar\bin\Debug\net8.0\Dizi Sayılar.pdb
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.AssemblyInfo.cs
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.dll
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\refint\Dizi Sayılar.dll
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.pdb
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\Dizi Sayılar.genruntimeconfig.cache
+C:\Users\User\Desktop\Proje\Dizi Sayılar\obj\Debug\net8.0\ref\Dizi Sayılar.dll
